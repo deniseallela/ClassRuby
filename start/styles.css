@@ -1,0 +1,18 @@
+#header{text-align: center;
+		color: #003cb3}
+
+.nav li{display: inline;
+		color: #ff3300}
+	li a:hover{background-color: #e6b800}
+	li a{text-decoration: none;}	
+
+	body{background-image: url(gallery/edu.jpg)	
+		;background-repeat: no-repeat;
+		background-size: 150%}
+	body{color: white}
+
+#main{text-align: center;}
+
+	ul{color: #e6b800}
+
+#footer{color: #ff3300 }

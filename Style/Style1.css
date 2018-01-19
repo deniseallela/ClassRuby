@@ -1,0 +1,18 @@
+
+		#kts{text-align: right;}
+		body{background-image: url("../cool_warrior.jpg/");
+			background-repeat: no-repeat;background-size: 200%}
+		p{text-align: center;
+			font-family: ani}
+		table{background-color: #000000; color: #ffffff}
+		#Elenor{background-color: green}
+		div{background-color: grey}
+		li{display: inline;
+		   text-decoration: none;}
+		li:hover {color: red;
+    	}
+    	#Kre{text-align: center;
+    		padding: 100px;
+    		}
+    	
+	
